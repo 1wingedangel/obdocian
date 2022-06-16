@@ -8,7 +8,7 @@ alias:
 dg-publish: true
 dg-permalink: "How/powershell-symlink"
 share: true
-category: how
+category: "how"
 ---
 
 # 如何在 Powershell 上创建符号链接
